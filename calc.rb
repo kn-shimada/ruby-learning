@@ -20,3 +20,5 @@ end
 def Exponentiation (a, b)
   a = a ** b
 end
+
+print "電卓起動\n式を半角で入力してください\n例：1 + 2 ="
