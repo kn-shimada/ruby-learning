@@ -1,5 +1,4 @@
 number_0 = 0
-number_1 = 0
 
 def add (a, b)
   a = a + b
